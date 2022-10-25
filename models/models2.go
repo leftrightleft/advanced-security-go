@@ -15,7 +15,7 @@ type Book struct {
 
 // Get all books in the books table.
 func AllBooks() ([]Book, error) {
-	query := "SELECT * FROM books"
+	query := "SELECT ** FROM books"
 	rows, err := DB.Query(query)
 	if err != nil {
 		return nil, err
