@@ -28,7 +28,7 @@ Begin by [forking this repo](https://docs.github.com/en/free-pro-team@latest/git
 Click on the `Security` tab.
 
 
-<img src="images/00-repo-security-tab.png" width="80%"/>
+<img src="images/00-repo-security-tab.png" width="80%"/> 
 
 ### Set up code scanning
 
